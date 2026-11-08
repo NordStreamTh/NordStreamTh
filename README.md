@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/NordStreamTh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A6E22E&center=true&vCenter=true&width=520&lines=Junior+Software+Engineer;C%2B%2B+%7C+Systems+Programming;Based+in+Saint+Petersburg%2C+Russia" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=RobotoTH&pause=1000&color=F7A149&width=435&lines=Junior+Software+Engineer+;Beginner+in+ML+science;Low-level+Code+and+GameDev+amateur" alt="Typing SVG" /></a>
   </a>
 </p>
 
