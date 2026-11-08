@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/NordStreamTh">
-    <img height="190" src="https://github-stats-extended.vercel.app/api?username=NordStreamTh&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="GitHub Stats" />
+    <img height="1900" src="https://github-stats-extended.vercel.app/api?username=NordStreamTh&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/NordStreamTh">
     <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs?username=NordStreamTh&layout=compact&langs_count=4&theme=monokai&hide_border=true" alt="Top Languages" />
